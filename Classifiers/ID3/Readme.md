@@ -1,7 +1,7 @@
 **Import ID3 algorithm.**
-
+```
 import Decision_Tree_ID3_Classifier as dt
-
+```
 
 **Get default dataset and feature set.**
 
