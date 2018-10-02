@@ -34,6 +34,6 @@
 - [ ] My _commits_ follow the style pattern of this project.
 - [ ] My change requires a change in documentation.
 - [ ] We updated the documentation accordingly.
-- [ ] I have read the Contribution document (** CONTRIBUTING **).
+- [ ] I have read the Contribution document (**CONTRIBUTING**).
 - [ ] I've added tests to cover my changes.
 - [ ] All new and existing tests have passed.
