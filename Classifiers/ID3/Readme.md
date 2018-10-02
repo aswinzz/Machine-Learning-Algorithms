@@ -17,6 +17,7 @@
 
 **Run Classifier**
 >>> dt.classify(tree, myFeatures, [1, 0])
+
 'no'
 >>> dt.classify(tree, myFeatures, [1, 1])
 'yes'
