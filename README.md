@@ -12,7 +12,7 @@ Codes for all Machine Learning Algorithms
 # Algorithms
 Following Machine Learning Algorithm are available in this repository
 - Clustering-KMeans
-- logistic regression
+- Logistic Regression
 - Support Vector Machine
 - Random Forest
 - Naive Bayes Classifier
