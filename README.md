@@ -15,4 +15,4 @@ Following Machine Learning Algorithm are available in this repository
 - logistic regression
 - Support Vector Machine
 - Random Forest
-- Naive Bais Classifier
+- Naive Bayes Classifier
