@@ -1,4 +1,4 @@
 ### Contributors
 
-- [Aswin VB] (https://github.com/aswinzz)
-- [Asutosh] (https://github.com/Asutosh989)
+- [Aswin VB](https://github.com/aswinzz)
+- [Asutosh](https://github.com/Asutosh989)
