@@ -16,3 +16,9 @@ Following Machine Learning Algorithm are available in this repository
 - Support Vector Machine
 - Random Forest
 - Naive Bayes Classifier
+- KNN
+- ID3
+- Kernel Principal Component Analysis
+- Neural Network (one hidden layer)
+- Dimensionality Reduction - Principal Component Analysis(PCA)
+- Dimensionality Reduction - Linear Discriminant Analysis(LDA)
