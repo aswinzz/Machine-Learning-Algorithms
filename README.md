@@ -22,3 +22,4 @@ Following Machine Learning Algorithm are available in this repository
 - Neural Network (one hidden layer)
 - Dimensionality Reduction - Principal Component Analysis(PCA)
 - Dimensionality Reduction - Linear Discriminant Analysis(LDA)
+- Reinforcement Learning - Thompson Sampling
