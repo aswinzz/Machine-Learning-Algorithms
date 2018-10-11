@@ -7,7 +7,7 @@ Algorithm:
 - Center the resulting kernel matrix (say K) following the below method :
 	* Calculate the mean of kernel matrix (say K_mean)
 	* K_center_data = K - K_mean
-	(Here an inbuilt data centered algorithm is used for this purpose)
+	(Here an inbuilt data centerer algorithm is used for this purpose)
 - Find the Eigen Values and corresponding Eigen vectors of the centered data
 - Sort the Eigen vectors in descending order of eigen values
 - Calculate the final result as dot product of K_center_data and first *N* Eigen vectors (here *N* is the feature_size)
