@@ -1,8 +1,8 @@
 ### KPCA: *Kernel Principal Component Analysis*
 
 Algorithm:
-- Calculate the [Sqaured-Euclidean](https://en.wikipedia.org/wiki/Euclidean_distance) Distance of the data
-- convert the resulting data into a sqaure matrix
+- Calculate the [Squared-Euclidean](https://en.wikipedia.org/wiki/Euclidean_distance) Distance of the data
+- Convert the resulting data into a square matrix
 - Apply the [Radius Basis Function](https://en.wikipedia.org/wiki/Radial_basis_function_kernel) kernel method on the resulting Square matrix.
 - Center the resulting kernel matrix (say K) following the below method :
 	* Calculate the mean of kernel matrix (say K_mean)
