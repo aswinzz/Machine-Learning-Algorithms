@@ -6,3 +6,4 @@
 - [Anisha Mohanty](https://github.com/ani-sha)
 - [Vaibhav Tayal](https://github.com/Vtayal)
 - [Harsh Surya](https://github.com/harsh-surya)
+- [Alakh Verma](https://github.com/AaahAahAha)
